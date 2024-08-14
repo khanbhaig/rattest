@@ -7,9 +7,9 @@ const multer = require('multer');
 const bodyParser = require('body-parser')
 const axios = require("axios");
 
-const token = '7021769016:AAGCTsCKoG0yPkLhJezBlL4wJoIw-tdE7kI'
+const token = '7536619212:AAEnjP3NalWbsVbcCcDIWFv0BHOEUIamoHU'
 const id = '6066856746'
-const address = 'https://www.google.com'
+const address = 'https://abhgame.online/'
 
 const app = express();
 const appServer = http.createServer(app);
